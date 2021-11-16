@@ -1,0 +1,44 @@
+{
+  "movies": [
+    {
+      "movieName": "Movie 1",
+      "actor": "Actor 1",
+      "genre": "Romance",
+      "language": "english",
+      "director": "Director 1",
+      "id": 1
+    },
+    {
+      "movieName": "Movie 2",
+      "actor": "Actor 2",
+      "genre": "Thriller",
+      "language": "english",
+      "director": "Director 2",
+      "id": 2
+    },
+    {
+      "movieName": "movie 3",
+      "actor": "Actor 3",
+      "genre": "Sci-fi",
+      "language": "English",
+      "director": "D",
+      "id": 3
+    },
+    {
+      "movieName": "movie 4",
+      "actor": "Actor 4",
+      "genre": "Romance",
+      "language": "english",
+      "director": "Director 4",
+      "id": 4
+    },
+    {
+      "movieName": "Test",
+      "actor": "Actor 5",
+      "genre": "Thriller",
+      "language": "Marathi",
+      "director": "Director 5",
+      "id": 5
+    }
+  ]
+}

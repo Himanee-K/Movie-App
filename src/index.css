@@ -1,0 +1,19 @@
+.not-found {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.addMovie{
+  float: right !important;
+}
+.searchbtn{
+  margin-right: 64% !important;
+}
+.logo{
+  font-size: 42px !important;
+}
